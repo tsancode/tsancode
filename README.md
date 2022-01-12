@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @tsancode
-- 👀 I’m interested in data science and bioinformatic.
-- 🌱 I’m currently learning machine learning.
-- 💞️ I’m looking to collaborate on bioinformatic project, NGS.
+# Hi, everyone! 👋 
+- I’m **Tsaniyah Nur Kholilah**
+
+- I’m interested in **bioinformatic, computational biology, and data science**.
+
+- I’m looking forward to collaborate on **bioinformatic project, machine learning, or NGS**.
+
+
+- Let's keep in touch, just follow my [Linkedin](https://id.linkedin.com/in/tsaniyahnurkholilah)!
 
 <!---
 tsancode/tsancode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

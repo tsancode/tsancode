@@ -1,4 +1,4 @@
-# Hi, everyone! 👋 
+# Hi, you! 👋 
 - I’m **Tsaniyah Nur Kholilah**
 
 - I’m interested in **bioinformatic, computational biology, and data science**.

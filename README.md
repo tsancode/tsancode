@@ -6,7 +6,7 @@
 - I’m looking forward to collaborate on **bioinformatic project, machine learning, or NGS**.
 
 
-- Let's keep in touch, just follow my [Linkedin](https://id.linkedin.com/in/tsaniyahnurkholilah)!
+- Let's keep in touch, just contact my [Linkedin](https://id.linkedin.com/in/tsaniyahnurkholilah)!
 
 <!---
 tsancode/tsancode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
